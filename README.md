@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @DowglasSant.
-- 👀 I’m interested in IoT, Automation and JAVA Development.
-- 🌱 I’m currently learning JAVA.
+# Olá, Sou Dowglas! ;)
 
-<!---
-DowglasSant/DowglasSant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DowglasSant/DowglasSant)](https://github.com/DowglasSant/DowglasSant)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dowglas-santana/)](https://www.linkedin.com/in/dowglas-santana/)
+
+### About me
+Atualmente sou um dev Back-end em seus primeiros passos e com afinidade em Java, .NET e C/C++;
+Estudante de Análise e Desenvolvimento de Sistemas;
+Estagiário de Sistemas e Desenvolvimento na Selfit Academias.
