@@ -1,4 +1,6 @@
-### Dowglas:
+### Olá, Eu sou Dowglas Santana
+
+![Dowglas](https://github.com/DowglasSant/GifAnimado/blob/master/VersaoMelhor.gif "Dowglas")
 
 - 🎓Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE em Parceria com o Porto Digital
 - 👨‍💻 Estagiário de Desenvolvimento na Selfit Academias
@@ -31,3 +33,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
