@@ -1,7 +1,5 @@
 ### Olá, Eu sou Dowglas Santana
 
-![Dowglas](https://github.com/DowglasSant/GifAnimado/blob/master/VersaoMelhor.gif "Dowglas")
-
 - 🎓Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Estácio de Sá
 - 👨‍💻 Analista de Sistemas Júnior na Ícaro Tech
 - 🏠 Vivo em Recife-PE
