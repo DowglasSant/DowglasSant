@@ -1,6 +1,7 @@
 ### Olá, Eu sou Dowglas Santana
 
-- 🎓Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Estácio de Sá
+- 🎓Formado em Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Desenvolvedor Backend
 - 👨‍💻 Analista de Sistemas Júnior na Ícaro Tech
 - 🏠 Vivo em Recife-PE
 - :speech_balloon: Interessado em Desenvolvimento Back-End.
