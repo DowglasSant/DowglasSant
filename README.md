@@ -13,6 +13,7 @@
 
 <p align="center">
   📫 <strong>Contatos:</strong><br>
+  <a href="mailto:dowglas.profissional@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EMAIL-red?style=for-the-badge&logo=mail.ru&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dowglas-santana/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
