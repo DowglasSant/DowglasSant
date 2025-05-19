@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🎯 Especializado em desenvolvimento back-end com forte aptidão em arquitetura de microserviços<br>
+  🎯 Especializado em desenvolvimento back-end com forte aptidão em arquitetura de microserviços e soluções de alta performance<br>
   🌱 Aprofundando conhecimentos em sistemas distribuídos e tecnologias escaláveis<br>
   💬 Vamos conversar sobre inovação tecnológica, arquitetura de sistemas e desenvolvimento de software
 </p>
@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
